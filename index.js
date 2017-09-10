@@ -1,0 +1,1 @@
+import mockgoose from 'mockgoos';

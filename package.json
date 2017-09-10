@@ -1,0 +1,23 @@
+{
+  "name": "mockgoose-issue-57",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "author": "Patrick Ethier",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuttybrewer/mockgoose-issue-57.git"
+  },
+  "dependencies": {
+    "mockgoose": "^7.3.3",
+    "mongoose": "^4.11.10"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.1"
+  }
+}
