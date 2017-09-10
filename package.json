@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*.spec.js"
+    "test": "mocha --timeout 120000 test/*.spec.js"
   },
   "author": "Patrick Ethier",
   "license": "ISC",
